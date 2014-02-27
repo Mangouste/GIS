@@ -1,0 +1,43 @@
+### Ce fichier est destiné à mettre les idées de puzzle de scénar et de features
+### pour iClong et sera versionné.
+
+## Ne pas hésiter à le bidouiller, on pourra suivre grâce au versionnement.
+
+## Etats:	On peut mettre plusieurs tags.
+	Non prévu	(Une idée en l'air)
+	Validé		(Ca a l'air d'une bonne idée)
+	Refusé		(Bof, laisse tomber)
+	Conflit		(C'est incompatible avec tel truc)
+	Prévu		(Ouais, on va s'y mettre bientôt)
+	Bloqué		(Nécessite d'autres implementations pour aller plus loin)
+	Obsolete	(On peut s'en passer, maintenant)
+	En cours	(J'ai commencé à bosser dessus)
+	Buggé		(J'ai commencé, mais ca fout la merde)
+	A supprimer	(On a fait ça, mais en fait il faut le virer)
+	Opérationnel	(Ca fonctionne)
+	A étoffer	(L'état minimal existe, mais il faut arrondir les angles)
+	Fini		(C'est bon, on passe à autre chose)
+
+###------------------------------------------------------###
+### 			Scénario			 ###
+###======================================================###
+
+
+###------------------------------------------------------###
+### 			  Puzzle			 ###
+###======================================================###
+
+
+
+###------------------------------------------------------###
+### 			  Features			 ###
+###======================================================###
+
+
+
+###------------------------------------------------------###
+### 			  Divers			 ###
+###======================================================###
+
+
+
